@@ -1,0 +1,19 @@
+{
+  "name": "sau-lunch-calendar",
+  "version": "1.0.0",
+  "description": "SAU school lunch menu calendar JSON file.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rkuzsma/sau-lunch-calendar"
+  },
+  "keywords": [],
+  "author": "Rich Kuzsma",
+  "license": "MIT",
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
