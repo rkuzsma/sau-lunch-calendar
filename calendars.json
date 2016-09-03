@@ -249,6 +249,30 @@
    }
   ]
  },
+ "2016-09-03T04:00:00.000Z": {
+  "date": "3",
+  "food": [],
+  "events": [
+   {
+    "text": "NO SCHOOL"
+   },
+   {
+    "text": "LABORDAY"
+   }
+  ]
+ },
+ "2016-09-04T04:00:00.000Z": {
+  "date": "4",
+  "food": [],
+  "events": [
+   {
+    "text": "NO SCHOOL"
+   },
+   {
+    "text": "LABORDAY"
+   }
+  ]
+ },
  "2016-09-05T04:00:00.000Z": {
   "date": "5",
   "food": [],
