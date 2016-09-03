@@ -1,4 +1,4 @@
-const calendars = require('calendars.json');
+const calendars = require('./calendars.json');
 module.exports = function() {
     return calendars;
 }
