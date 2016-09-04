@@ -1,6 +1,6 @@
 {
   "name": "sau-lunch-calendar",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "SAU school lunch menu calendar JSON file.",
   "main": "index.js",
   "scripts": {
